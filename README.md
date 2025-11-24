@@ -1,4 +1,4 @@
-## Hi there 👋, I;m Sooraj
+## Hi there 👋, I'm Sooraj
 
 # 💫 About Me:
 I’m a third-year Computer Science student at McMaster University with a strong interest in cybersecurity, AI, and data analysis. I’m currently building AI-driven projects while preparing for industry cybersecurity certifications. I enjoy exploring how systems behave, uncovering weaknesses, and learning how to secure them. Always open to collaborating on innovative tech ideas or data-focused work.
